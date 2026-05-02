@@ -8,7 +8,7 @@ const home = async () => {
   
 
   return (
-    <div className="w-5/6 mx-auto my-10 ">
+    <div className="w-5/6 mx-auto my-10">
       <div className="pb-4 flex justify-center items-center">
         <h1 className="text-3xl font-bold">Featured Books</h1>
       </div>
