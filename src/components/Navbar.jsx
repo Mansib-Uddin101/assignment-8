@@ -4,7 +4,7 @@ import Link from "next/link"
 
 const Navbar = () => {
   return (
-    <header className="bg-white shadow-md py-3.5 px-8 flex justify-between items-center">
+    <header className="bg-white shadow-md py-3.5 px-8 flex justify-between items-center sticky top-0 z-50">
       <Link href={"/"}>
         <Image
         src={logo}

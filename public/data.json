@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "title": "Nexus",
+    "author": "Yuval Noah Harari",
+    "description": "An exploration of how information networks have shaped our world and the existential risks posed by AI.",
+    "category": "Science",
+    "available_quantity": 14,
+    "image_url": "https://i.ibb.co/Ps0GT5Zv/nexus.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Chip War",
+    "author": "Chris Miller",
+    "description": "An essential look at the geopolitical struggle over semiconductor dominance and its impact on global power.",
+    "category": "Tech",
+    "available_quantity": 9,
+    "image_url": ""
+  },
+  {
+    "id": 3,
+    "title": "Buckeye",
+    "author": "Patrick Ryan",
+    "description": "A sweeping novel that weaves together the lives of two Midwestern families across generations.",
+    "category": "Story",
+    "available_quantity": 5,
+    "image_url": ""
+  },
+  {
+    "id": 4,
+    "title": "Genesis",
+    "author": "Eric Schmidt, Craig Mundie, and Henry Kissinger",
+    "description": "A collaborative work discussing the future of the human spirit and societal structures in an automated age.",
+    "category": "Tech",
+    "available_quantity": 7,
+    "image_url": ""
+  },
+  {
+    "id": 5,
+    "title": "Becoming Earth",
+    "author": "Ferris Jabr",
+    "description": "A scientific narrative exploring how the biological world has shaped the physical planet over eons.",
+    "category": "Science",
+    "available_quantity": 12,
+    "image_url": ""
+  },
+  {
+    "id": 6,
+    "title": "Isola",
+    "author": "Megha Majumdar",
+    "description": "A historical epic following a 16th-century heroine marooned on an island, fighting for survival.",
+    "category": "Story",
+    "available_quantity": 3,
+    "image_url": ""
+  },
+  {
+    "id": 7,
+    "title": "AI Snake Oil",
+    "author": "Arvind Narayanan and Sayash Kapoor",
+    "description": "A critical evaluation framework that separates AI hype from actual technological capabilities.",
+    "category": "Tech",
+    "available_quantity": 11,
+    "image_url": ""
+  },
+  {
+    "id": 8,
+    "title": "Our Moon",
+    "author": "Rebecca Boyle",
+    "description": "An investigation into how the moon guided evolution and transformed human history.",
+    "category": "Science",
+    "available_quantity": 8,
+    "image_url": ""
+  },
+  {
+    "id": 9,
+    "title": "James",
+    "author": "Percival Everett",
+    "description": "A reimagining of Adventures of Huckleberry Finn told from the perspective of Jim.",
+    "category": "Story",
+    "available_quantity": 4,
+    "image_url": ""
+  },
+  {
+    "id": 10,
+    "title": "Co-Intelligence",
+    "author": "Ethan Mollick",
+    "description": "A practical guide to leveraging generative AI as a partner in creative and professional workflows.",
+    "category": "Tech",
+    "available_quantity": 20,
+    "image_url": ""
+  },
+  {
+    "id": 11,
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "description": "A handbook of agile software craftsmanship that teaches how to write better, maintainable code.",
+    "category": "Tech",
+    "available_quantity": 15,
+    "image_url": ""
+  },
+  {
+    "id": 12,
+    "title": "Breath",
+    "author": "James Nestor",
+    "description": "A scientific exploration into the lost art of breathing and its impact on health and performance.",
+    "category": "Science",
+    "available_quantity": 10,
+    "image_url": ""
+  },
+  {
+    "id": 13,
+    "title": "Circe",
+    "author": "Madeline Miller",
+    "description": "A bold reimagining of the myth of the daughter of Helios who turns her enemies into monsters.",
+    "category": "Story",
+    "available_quantity": 6,
+    "image_url": ""
+  },
+  {
+    "id": 14,
+    "title": "Algorithms",
+    "author": "Panos Louridas",
+    "description": "An introduction to the essential algorithms that power our digital world and data processing.",
+    "category": "Tech",
+    "available_quantity": 18,
+    "image_url": ""
+  },
+  {
+    "id": 15,
+    "title": "Helgoland",
+    "author": "Carlo Rovelli",
+    "description": "A journey through the birth and meaning of quantum physics from a renowned physicist.",
+    "category": "Science",
+    "available_quantity": 7,
+    "image_url": ""
+  }
+]
