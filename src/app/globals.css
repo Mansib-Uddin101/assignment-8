@@ -1,2 +1,11 @@
 @import "tailwindcss";
-@plugin "daisyui"
+
+/* Ensure DaisyUI is loaded as a plugin, not a separate CSS import if possible */
+@plugin "daisyui";
+
+/* Any custom layer overrides go below */
+@layer base {
+  button {
+    border-width: 0; /* Sometimes frameworks set this globally */
+  }
+}
