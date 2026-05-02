@@ -1,6 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   images: {
+    unoptimized: true,
     remotePatterns: [
       {
         protocol: 'https',
@@ -14,8 +15,13 @@ const nextConfig = {
         port: '',
         pathname: '/**',
       },
-    ],
+      {
+        protocol: 'https',
+        hostname: 'i.ibb.co.com', // This is the one causing the 400 error
+        pathname: '/**',
+      },
+    ],  
   },
 }
 
-export default nextConfig;
+export default nextConfig;  

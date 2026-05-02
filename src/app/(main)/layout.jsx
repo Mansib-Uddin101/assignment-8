@@ -4,16 +4,18 @@ import Navbar from "@/components/Navbar"
 import NewArrivals from "@/components/NewArrivals"
 
 
-const MainLayout = ({children}) => {
+const MainLayout = ({ children }) => {
   return (
     <div className="flex flex-col min-h-screen">
-        <Navbar/>
-        <Banner/>
-        <NewArrivals/>
-        <main className="grow">
-        {children}
-        </main>
-        <Footer/>
+      <Navbar />
+      <Banner />
+      <NewArrivals />
+      <main className="grow">
+        <div className="">
+          {children}
+        </div>
+      </main>
+      <Footer />
     </div>
   )
 }
