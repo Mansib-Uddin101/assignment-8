@@ -1,17 +1,15 @@
 import Card from "@/components/Card"
 
 
-const home = () => {
+const home = async () => {
+  const res = await fetch("https://assignment-8-zeta-rust.vercel.app/data.json")
+  const allBooks = await res.json()
+  const featuredBooks = allBooks.slice(0,5);
   
+
   return (
     <div className="w-5/6 mx-auto my-10 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
-      <Card />
-      <Card />
-      <Card />
-      <Card />
-      <Card />
-      <Card />
-      <Card />
+      {/* {featuredBooks.map((book)=> <Card book={book} key={book.id}/>)} */}
     </div>
   )
 }

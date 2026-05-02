@@ -15,7 +15,7 @@
     "description": "An essential look at the geopolitical struggle over semiconductor dominance and its impact on global power.",
     "category": "Tech",
     "available_quantity": 9,
-    "image_url": ""
+    "image_url": "https://i.ibb.co.com/dJmwNdYr/chip-war.jpg"
   },
   {
     "id": 3,
@@ -24,7 +24,7 @@
     "description": "A sweeping novel that weaves together the lives of two Midwestern families across generations.",
     "category": "Story",
     "available_quantity": 5,
-    "image_url": ""
+    "image_url": "https://i.ibb.co.com/6R9b8v9K/9781526689320.webp"
   },
   {
     "id": 4,
@@ -33,7 +33,7 @@
     "description": "A collaborative work discussing the future of the human spirit and societal structures in an automated age.",
     "category": "Tech",
     "available_quantity": 7,
-    "image_url": ""
+    "image_url": "https://i.ibb.co.com/TDdF9pRm/51-ZDc-Q-A6w-L-SY445-SX342-FMwebp.webp"
   },
   {
     "id": 5,
@@ -42,7 +42,7 @@
     "description": "A scientific narrative exploring how the biological world has shaped the physical planet over eons.",
     "category": "Science",
     "available_quantity": 12,
-    "image_url": ""
+    "image_url": "https://i.ibb.co.com/CpHb1HZ7/51kqs-X5g-HL-SY445-SX342-FMwebp.webp"
   },
   {
     "id": 6,
@@ -51,7 +51,7 @@
     "description": "A historical epic following a 16th-century heroine marooned on an island, fighting for survival.",
     "category": "Story",
     "available_quantity": 3,
-    "image_url": ""
+    "image_url": "https://i.ibb.co.com/chTmLccC/41-Sa7qr72-ZL-SY445-SX342-FMwebp.webp"
   },
   {
     "id": 7,
@@ -60,7 +60,7 @@
     "description": "A critical evaluation framework that separates AI hype from actual technological capabilities.",
     "category": "Tech",
     "available_quantity": 11,
-    "image_url": ""
+    "image_url": "https://i.ibb.co.com/Q769Dd6S/9780691249131.avif"
   },
   {
     "id": 8,
@@ -69,7 +69,7 @@
     "description": "An investigation into how the moon guided evolution and transformed human history.",
     "category": "Science",
     "available_quantity": 8,
-    "image_url": ""
+    "image_url": "https://i.ibb.co.com/dwSHrgVs/134117265.jpg"
   },
   {
     "id": 9,
@@ -78,7 +78,7 @@
     "description": "A reimagining of Adventures of Huckleberry Finn told from the perspective of Jim.",
     "category": "Story",
     "available_quantity": 4,
-    "image_url": ""
+    "image_url": "https://i.ibb.co.com/35Mg16SJ/81cz-DDill-CL-SY342.jpg"
   },
   {
     "id": 10,
@@ -87,7 +87,7 @@
     "description": "A practical guide to leveraging generative AI as a partner in creative and professional workflows.",
     "category": "Tech",
     "available_quantity": 20,
-    "image_url": ""
+    "image_url": "https://i.ibb.co.com/6Qzmnvk/198678736.jpg"
   },
   {
     "id": 11,
@@ -96,7 +96,7 @@
     "description": "A handbook of agile software craftsmanship that teaches how to write better, maintainable code.",
     "category": "Tech",
     "available_quantity": 15,
-    "image_url": ""
+    "image_url": "https://i.ibb.co.com/3yFJxW7k/3735293.jpg"
   },
   {
     "id": 12,
@@ -105,7 +105,7 @@
     "description": "A scientific exploration into the lost art of breathing and its impact on health and performance.",
     "category": "Science",
     "available_quantity": 10,
-    "image_url": ""
+    "image_url": "https://i.ibb.co.com/Swdv7kSB/48890486.jpg"
   },
   {
     "id": 13,
@@ -114,7 +114,7 @@
     "description": "A bold reimagining of the myth of the daughter of Helios who turns her enemies into monsters.",
     "category": "Story",
     "available_quantity": 6,
-    "image_url": ""
+    "image_url": "https://i.ibb.co.com/Vh22MGV/35959740.jpg"
   },
   {
     "id": 14,
@@ -123,7 +123,7 @@
     "description": "An introduction to the essential algorithms that power our digital world and data processing.",
     "category": "Tech",
     "available_quantity": 18,
-    "image_url": ""
+    "image_url": "https://i.ibb.co.com/N6ndQJ6C/9780262539029.jpg"
   },
   {
     "id": 15,
@@ -132,6 +132,6 @@
     "description": "A journey through the birth and meaning of quantum physics from a renowned physicist.",
     "category": "Science",
     "available_quantity": 7,
-    "image_url": ""
+    "image_url": "https://i.ibb.co.com/dJk5FMQh/9780141993270-jacket-large.webp"
   }
 ]
