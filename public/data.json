@@ -3,7 +3,7 @@
     "id": 1,
     "title": "Nexus",
     "author": "Yuval Noah Harari",
-    "description": "An exploration of how information networks have shaped our world and the existential risks posed by AI.",
+    "description": "A deeply provocative exploration of how information networks have shaped human history, from the Stone Age to the Silicon Age. Harari examines the complex relationship between information and truth, warning of the existential risks posed by AI and the potential for non-human intelligence to dismantle the foundations of our social order. By tracing the flow of data through ancient bureaucracies and modern algorithms, he challenges us to consider whether we are designing a future of liberation or a self-constructed digital prison that operates beyond human understanding or control.",
     "category": "Science",
     "available_quantity": 14,
     "image_url": "https://i.ibb.co/Ps0GT5Zv/nexus.jpg"
@@ -12,7 +12,7 @@
     "id": 2,
     "title": "Chip War",
     "author": "Chris Miller",
-    "description": "An essential look at the geopolitical struggle over semiconductor dominance and its impact on global power.",
+    "description": "An essential look at the high-stakes geopolitical struggle over semiconductor dominance. Miller traces the history of the computer chip and reveals how control over this tiny technology has become the primary theater for global power competition, influencing everything from military superiority to the future of the global economy. From the labs of Silicon Valley to the fabrication plants of Taiwan, this narrative explains why the supply chain for these microscopic components is the most vulnerable and vital infrastructure in the modern world, dictating the rise and fall of nations in the twenty-first century.",
     "category": "Tech",
     "available_quantity": 9,
     "image_url": "https://i.ibb.co.com/dJmwNdYr/chip-war.jpg"
@@ -21,7 +21,7 @@
     "id": 3,
     "title": "Buckeye",
     "author": "Patrick Ryan",
-    "description": "A sweeping novel that weaves together the lives of two Midwestern families across generations.",
+    "description": "A sweeping and emotionally resonant novel that weaves together the intricate lives of two Midwestern families across several generations. Set against the backdrop of a changing American landscape, Ryan explores the weight of secrets, the complexity of kinship, and the enduring legacy of the places we call home. Through decades of shifting social norms and personal upheavals, the story captures the quiet heartbreaks and triumphs of ordinary people, ultimately painting a masterful portrait of the resilience found in the American heartland and the invisible threads that bind us to our past and each other.",
     "category": "Story",
     "available_quantity": 5,
     "image_url": "https://i.ibb.co.com/6R9b8v9K/9781526689320.webp"
@@ -30,7 +30,7 @@
     "id": 4,
     "title": "Genesis",
     "author": "Eric Schmidt, Craig Mundie, and Henry Kissinger",
-    "description": "A collaborative work discussing the future of the human spirit and societal structures in an automated age.",
+    "description": "A monumental collaborative work that discusses the profound evolution of the human spirit and societal structures in an increasingly automated age. The authors combine their expertise in technology and diplomacy to analyze how AI will redefine what it means to be human and how we must govern the dawn of a new era. This book serves as a strategic roadmap for navigating the unprecedented challenges of artificial intelligence, arguing that we are at a historical junction where our choices will determine whether technology enhances human dignity or creates a world where human agency becomes a relic of the past.",
     "category": "Tech",
     "available_quantity": 7,
     "image_url": "https://i.ibb.co.com/TDdF9pRm/51-ZDc-Q-A6w-L-SY445-SX342-FMwebp.webp"
@@ -39,7 +39,7 @@
     "id": 5,
     "title": "Becoming Earth",
     "author": "Ferris Jabr",
-    "description": "A scientific narrative exploring how the biological world has shaped the physical planet over eons.",
+    "description": "A breathtaking scientific narrative that reimagines our planet as a living, breathing entity. Jabr explores the co-evolution of life and the environment, illustrating how the biological world—from microscopic microbes to massive forests—has actively shaped the physical chemistry and geology of Earth over eons. This revelatory work challenges the traditional view of Earth as a mere stage for life, instead presenting it as a singular, interconnected organism where the rhythm of the tides, the composition of the atmosphere, and the very structure of the continents are all products of the relentless and beautiful influence of living things.",
     "category": "Science",
     "available_quantity": 12,
     "image_url": "https://i.ibb.co.com/CpHb1HZ7/51kqs-X5g-HL-SY445-SX342-FMwebp.webp"
@@ -48,7 +48,7 @@
     "id": 6,
     "title": "Isola",
     "author": "Megha Majumdar",
-    "description": "A historical epic following a 16th-century heroine marooned on an island, fighting for survival.",
+    "description": "A visceral historical epic following a 16th-century heroine who finds herself marooned on a remote island. As she fights for survival against the elements and internal strife, the story delves into themes of isolation, resilience, and the indomitable human will to forge a path forward in an unforgiving world. Majumdar’s prose brings to life the sights, sounds, and terrors of an uncharted wilderness, while simultaneously exploring the internal landscape of a woman forced to reinvent herself. It is a haunting exploration of what remains when civilization is stripped away and the brutal, beautiful reality of surviving against impossible odds.",
     "category": "Story",
     "available_quantity": 3,
     "image_url": "https://i.ibb.co.com/chTmLccC/41-Sa7qr72-ZL-SY445-SX342-FMwebp.webp"
@@ -57,7 +57,7 @@
     "id": 7,
     "title": "AI Snake Oil",
     "author": "Arvind Narayanan and Sayash Kapoor",
-    "description": "A critical evaluation framework that separates AI hype from actual technological capabilities.",
+    "description": "A rigorous and timely critical evaluation framework designed to separate AI hype from actual technological capabilities. The authors expose the 'snake oil' of the tech industry, teaching readers how to spot flawed predictive models and understand why some AI applications succeed while many others are destined to fail. By dismantling the myths surrounding machine learning, the book provides a necessary reality check for policymakers, business leaders, and the general public, offering a toolkit for distinguishing between genuine scientific breakthroughs and the empty promises of marketing-driven 'solutions' that currently dominate the digital landscape.",
     "category": "Tech",
     "available_quantity": 11,
     "image_url": "https://i.ibb.co.com/Q769Dd6S/9780691249131.avif"
@@ -66,7 +66,7 @@
     "id": 8,
     "title": "Our Moon",
     "author": "Rebecca Boyle",
-    "description": "An investigation into how the moon guided evolution and transformed human history.",
+    "description": "An immersive investigation into the celestial body that has silently guided the course of terrestrial life. Boyle examines how the moon’s gravitational pull steered evolution, helped humans navigate the seas, and inspired the religious and scientific revolutions that transformed human history. Beyond the tides and calendars, she explores the Moon's role as a mirror for human ambition—from ancient myth-making to the modern space race. This book reveals that our history is not just a story of what happened on Earth, but a cosmic partnership with a silver companion that has dictated the very rhythm of our biology and the heights of our imagination.",
     "category": "Science",
     "available_quantity": 8,
     "image_url": "https://i.ibb.co.com/dwSHrgVs/134117265.jpg"
@@ -75,7 +75,7 @@
     "id": 9,
     "title": "James",
     "author": "Percival Everett",
-    "description": "A reimagining of Adventures of Huckleberry Finn told from the perspective of Jim.",
+    "description": "A brilliant and subversive reimagining of Mark Twain's 'Adventures of Huckleberry Finn,' told entirely from the perspective of the enslaved Jim. Everett brings a powerful new voice to a classic tale, exploring agency, language, and the harrowing reality of life on the Mississippi with wit and profound depth. While the world sees a simple run-away, Everett reveals a man of immense intellect and internal complexity, navigating a landscape of extreme danger. This novel is a fierce reclamation of a character long sidelined in American literature, forcing a confrontation with the brutal history of slavery while celebrating the quiet dignity and sharp intelligence of its protagonist.",
     "category": "Story",
     "available_quantity": 4,
     "image_url": "https://i.ibb.co.com/35Mg16SJ/81cz-DDill-CL-SY342.jpg"
@@ -84,7 +84,7 @@
     "id": 10,
     "title": "Co-Intelligence",
     "author": "Ethan Mollick",
-    "description": "A practical guide to leveraging generative AI as a partner in creative and professional workflows.",
+    "description": "A practical and forward-thinking guide to leveraging generative AI as a collaborative partner. Mollick demonstrates how individuals can integrate AI into their creative and professional workflows to amplify their own intelligence, providing actionable strategies for a future where humans and machines work in tandem. Rather than viewing AI as a replacement, he frames it as a 'co-intelligence' that can brainstorm, analyze, and automate tasks, allowing people to focus on higher-level thinking. This book is a vital resource for anyone looking to stay relevant in an AI-driven economy, offering a positive yet grounded vision of how to flourish alongside our new digital counterparts.",
     "category": "Tech",
     "available_quantity": 20,
     "image_url": "https://i.ibb.co.com/6Qzmnvk/198678736.jpg"
@@ -93,7 +93,7 @@
     "id": 11,
     "title": "Clean Code",
     "author": "Robert C. Martin",
-    "description": "A handbook of agile software craftsmanship that teaches how to write better, maintainable code.",
+    "description": "A cornerstone handbook of agile software craftsmanship. Martin outlines the principles, patterns, and practices of writing high-quality code, providing developers with the tools to transform 'working' code into 'clean' code that is readable, maintainable, and built to last in a professional environment. Through countless case studies and real-world examples, the book emphasizes that writing code is a social activity and that 'clean' code is the only way to sustain speed and quality in complex projects. It remains the definitive guide for any programmer who strives to move beyond mere syntax and achieve true technical excellence and professionalism in their craft.",
     "category": "Tech",
     "available_quantity": 15,
     "image_url": "https://i.ibb.co.com/3yFJxW7k/3735293.jpg"
@@ -102,7 +102,7 @@
     "id": 12,
     "title": "Breath",
     "author": "James Nestor",
-    "description": "A scientific exploration into the lost art of breathing and its impact on health and performance.",
+    "description": "A fascinating scientific exploration into the lost art of breathing. Nestor travels the world to uncover why humans have lost the ability to breathe correctly and how correcting this basic function can dramatically improve physical health, mental clarity, and athletic performance. He investigates ancient practices, modern pulmonary research, and the physical evolution of the human face to show how mouth-breathing is making us sick. This book is a call to action to reclaim our most fundamental biological process, proving that how we breathe is just as important as what we eat or how much we exercise, offering life-changing insights into the power of the nose and the lungs.",
     "category": "Science",
     "available_quantity": 10,
     "image_url": "https://i.ibb.co.com/Swdv7kSB/48890486.jpg"
@@ -111,7 +111,7 @@
     "id": 13,
     "title": "Circe",
     "author": "Madeline Miller",
-    "description": "A bold reimagining of the myth of the daughter of Helios who turns her enemies into monsters.",
+    "description": "A bold and lyrical reimagining of the Greek myth of Circe, the daughter of the sun god Helios. Cast out to the island of Aiaia, she hones her occult crafts and crosses paths with famous mythological figures, eventually proving that a woman can be both a monster and a hero in a world ruled by men and gods. Miller breathes new life into the ancient epic, transforming Circe from a one-dimensional villain into a complex, fiercely independent protagonist who must find her place between the divine and the mortal. It is a stunning story of transformation, family legacy, and the enduring power of a woman who refuses to be silenced by the gods or the myths they create.",
     "category": "Story",
     "available_quantity": 6,
     "image_url": "https://i.ibb.co.com/Vh22MGV/35959740.jpg"
@@ -120,7 +120,7 @@
     "id": 14,
     "title": "Algorithms",
     "author": "Panos Louridas",
-    "description": "An introduction to the essential algorithms that power our digital world and data processing.",
+    "description": "A clear and engaging introduction to the essential algorithms that act as the invisible architects of our digital world. Louridas explains the logic behind data processing and decision-making systems, showing how these mathematical structures influence everything from search engines to social media feeds. By breaking down complex concepts like sorting, searching, and graph theory into accessible language, the book empowers readers to understand the rules that govern our online lives. It is an indispensable guide for anyone curious about how software actually thinks and how the hidden mechanics of computation are increasingly shaping the way we interact, work, and perceive reality itself.",
     "category": "Tech",
     "available_quantity": 18,
     "image_url": "https://i.ibb.co.com/N6ndQJ6C/9780262539029.jpg"
@@ -129,7 +129,7 @@
     "id": 15,
     "title": "Helgoland",
     "author": "Carlo Rovelli",
-    "description": "A journey through the birth and meaning of quantum physics from a renowned physicist.",
+    "description": "A poetic journey through the birth and meaning of quantum physics. Renowned physicist Carlo Rovelli takes readers to the island of Helgoland, where Werner Heisenberg first glimpsed the strange reality of the quantum world, offering a radical new interpretation of the universe as a web of relations rather than a collection of objects. Rovelli’s prose is both scientifically precise and deeply philosophical, guiding the reader through the mind-bending implications of quantum theory—where nothing exists until it interacts with something else. It is a brief but profound meditation on the nature of reality, suggesting that the world is more beautiful and mysterious than our common sense would ever allow us to believe.",
     "category": "Science",
     "available_quantity": 7,
     "image_url": "https://i.ibb.co.com/dJk5FMQh/9780141993270-jacket-large.webp"
