@@ -10,7 +10,7 @@ const bookDetails = async ({params}) => {
   
   return (
     <div className='w-4/5 mx-auto my-10 grid grid-cols-1 md:grid-cols-[auto_1fr] gap-8 p-4'>
-      <div className='shadow-md'>
+      <div className='shadow-lg'>
         <Image
         src={selectedBook.image_url}
         alt='cover'

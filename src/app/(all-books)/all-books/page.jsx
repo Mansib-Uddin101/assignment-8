@@ -27,8 +27,9 @@ const AllBooks = () => {
 
         <input
           type="text"
+          
           placeholder="Search by book title..."
-          className="block w-full max-w-md px-4 py-2 text-gray-900 border border-gray-300 rounded-lg bg-gray-50 text-base focus:ring-blue-500 focus:border-blue-500 outline-none"
+          className="block w-full  px-4 py-2 text-gray-900 border border-gray-300 rounded-lg bg-gray-50 text-base focus:ring-blue-500 focus:border-blue-500 outline-none"
           onChange={(e) => setSearchTerm(e.target.value)}
         />
         </div>
