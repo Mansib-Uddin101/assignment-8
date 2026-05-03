@@ -5,13 +5,7 @@
     const allBooks = await res.json()
     const NewBooks = allBooks.slice(6,11);
 
-  //   const NewBooks = [
-  //   "The Great Gatsby", 
-  //   "Atomic Habits", 
-  //   "Project Hail Mary",
-  //   "The Midnight Library",
-  //   "Dune"
-  // ];
+
 
     return (
       <div className="container w-5/6 rounded-lg mx-auto px-3 py-2 bg-orange-50 space-y-2">

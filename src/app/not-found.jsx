@@ -17,8 +17,7 @@ const NotFound = () => {
         Oops! This page is checked out.
       </h2>
       <p className="text-gray-600 mb-8 max-w-md">
-        The book or page you are looking for doesn't exist in our library. 
-        It might have been moved, deleted, or perhaps it was never written.
+      The book or page you are looking for doesn't exist in our library. 
       </p>
 
       <Link
