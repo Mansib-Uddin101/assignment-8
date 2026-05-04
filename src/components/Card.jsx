@@ -3,7 +3,6 @@ import Link from 'next/link';
 import React from 'react'
 
 const Card = ({ book }) => {
-    console.log(book.image_url);
 
     return (
         <div className="card bg-base-200/50  shadow-sm hover:scale-103 transition-all duration-300 h-full flex flex-co">
