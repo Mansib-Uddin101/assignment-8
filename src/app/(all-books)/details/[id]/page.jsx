@@ -11,14 +11,14 @@ const bookDetails = async ({params}) => {
   
   
   return (
-    <div className='w-4/5 mx-auto my-10 grid grid-cols-1 md:grid-cols-[auto_1fr] gap-8 p-4'>
-      <div className='shadow-lg'>
+    <div className='w-4/5 mx-auto my-10 grid grid-cols-1 lg:grid-cols-[auto_1fr] gap-8 p-4'>
+      <div className=''>
         <Image
         src={selectedBook.image_url}
         alt='cover'
         width={330}
         height={330}
-        className=''
+        className='shadow-lg mx-auto'
         />
       </div>
       <div className='flex flex-col'>
