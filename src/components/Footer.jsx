@@ -15,17 +15,17 @@ const Footer = () => {
         <div className="md:text-right">
           <h3 className="text-white text-xl font-bold mb-4">Follow Us</h3>
           <div className="flex md:justify-end space-x-6 text-2xl">
-            <a href="#" className="hover:text-blue-400 transition">
+            <a href="https://facebook.com"  target="_blank" rel="noopener noreferrer" className="hover:text-blue-400 transition">
               <i className="fab fa-facebook"></i>
               <span className="text-sm block md:inline ml-1">Facebook</span>
             </a>
-            <a href="#" className="hover:text-pink-400 transition">
+            <a href="https://instagram.com"  target="_blank" rel="noopener noreferrer" className="hover:text-pink-400 transition">
               <i className="fab fa-instagram"></i>
               <span className="text-sm block md:inline ml-1">Instagram</span>
             </a>
-            <a href="#" className="hover:text-blue-300 transition">
+            <a href="https://snapchat.com"  target="_blank" rel="noopener noreferrer" className="hover:text-blue-300 transition">
               <i className="fab fa-twitter"></i>
-              <span className="text-sm block md:inline ml-1">Twitter</span>
+              <span className="text-sm block md:inline ml-1">Snapchat</span>
             </a>
           </div>
         </div>
