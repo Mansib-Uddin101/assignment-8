@@ -3,6 +3,7 @@
 import { authClient } from '@/lib/auth-client';
 import Link from 'next/link';
 import { useRouter } from 'next/navigation';
+import { toast } from 'react-toastify';
 
 const SignUpForm = () => {
   const router = useRouter()
@@ -21,16 +22,23 @@ const SignUpForm = () => {
       image
     });
 
-    if (!error) {
-      router.push('/')
+    if (error) {
+      toast.error(error.message || "Failed to create account");
+    } else {
+      toast.success("Account created successfully!");
+      router.push('/');
     }
   };
 
   const handleGoogleSignIn = async () => {
-    await authClient.signIn.social({
+    const { data, error } = await authClient.signIn.social({
       provider: "google",
       callbackURL: "/",
     });
+    
+    if (error) {
+      toast.error(error.message || "Google sign up failed");
+    }
   };
 
   return (

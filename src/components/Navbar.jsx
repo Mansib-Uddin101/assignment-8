@@ -8,8 +8,10 @@ import Link from "next/link"
 const Navbar = () => {
   const userData = authClient.useSession()
   const user = userData.data?.user
+  console.log(user);
 
-  const handleSignOut = async ()=>{
+
+  const handleSignOut = async () => {
     await authClient.signOut()
   }
 
@@ -28,9 +30,9 @@ const Navbar = () => {
 
 
       <nav className="hidden md:flex space-x-8 font-medium text-gray-700">
-        <a href="/" className="hover:text-blue-500 transition">Home</a>
-        <a href="/all-books" className="hover:text-blue-500 transition">All Books</a>
-        <a href="/profile" className="hover:text-blue-500 transition">My Profile</a>
+        <Link href="/" className="hover:text-blue-500 transition">Home</Link>
+        <Link href="/all-books" className="hover:text-blue-500 transition">All Books</Link>
+        <Link href="/profile" className="hover:text-blue-500 transition">My Profile</Link>
       </nav>
 
       <div className="flex items-center gap-4">
@@ -38,17 +40,15 @@ const Navbar = () => {
           Login</Link>)
         }
         {user && (<div className="flex justify-center items-center gap-4">
-          <div className="avatar">
-            <div className="w-16 rounded-full">
-              <img src={user?.image}
-              referrerPolicy="no-referrer"
-              />
-            </div>
+          <div className="">
+            <h2 className="text-xl font-semibold text-gray-700">
+              {user?.name}
+            </h2>
           </div>
           <div>
             <button onClick={handleSignOut} className="bg-[#00D3BB]/50 text-xl px-4 py-2.5 font-semibold rounded-md hover:bg-gray-200 transition">Sign Out</button>
           </div>
-          </div>)
+        </div>)
         }
       </div>
     </header>

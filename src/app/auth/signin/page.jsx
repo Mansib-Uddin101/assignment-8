@@ -2,6 +2,7 @@
 
 import { authClient } from "@/lib/auth-client";
 import Link from "next/link";
+import { toast } from "react-toastify";
 
 const SignInForm = () => {
   const handleSignIn = async (e) => {
@@ -9,18 +10,28 @@ const SignInForm = () => {
     const email = e.target.email.value;
     const password = e.target.password.value;
 
-    await authClient.signIn.email({
+    const { data, error } = await authClient.signIn.email({
         email,
         password,
         callbackURL:'/'
-      });
+    });
+
+    if (error) {
+      toast.error(error.message || "Invalid email or password");
+    } else {
+      toast.success("Welcome back!");
+    }
   };
 
   const handleGoogleSignIn = async () => {
-    await authClient.signIn.social({
+    const { data, error } = await authClient.signIn.social({
       provider: "google",
       callbackURL: "/",
     });
+
+    if (error) {
+      toast.error(error.message || "Google login failed");
+    }
   };
 
   return (

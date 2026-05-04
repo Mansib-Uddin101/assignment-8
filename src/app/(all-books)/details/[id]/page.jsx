@@ -1,3 +1,5 @@
+
+import BorrowButton from '@/components/BorrowButton'
 import Image from 'next/image'
 import React from 'react'
 
@@ -6,7 +8,7 @@ const bookDetails = async ({params}) => {
   const res = await fetch("https://assignment-8-zeta-rust.vercel.app/data.json")
   const allBooks = await res.json()
   const selectedBook = allBooks.filter((book)=> book.id ==id)[0]
-  console.log(selectedBook);
+  
   
   return (
     <div className='w-4/5 mx-auto my-10 grid grid-cols-1 md:grid-cols-[auto_1fr] gap-8 p-4'>
@@ -33,8 +35,7 @@ const bookDetails = async ({params}) => {
           <h2 className='font-semibold'>Available Quantity: {selectedBook.available_quantity}</h2>
         </div>
         <div className='mt-auto'>
-          
-          <button className='btn btn-accent font-bold mx-auto text-xl w-full py-8'>Borrow Now</button>
+          <BorrowButton bookTitle={selectedBook.title}/>
         </div>
       </div>
     </div>
