@@ -1,4 +1,6 @@
+import BenefitsSection from "@/components/benefits_section";
 import Card from "@/components/Card"
+import Testimonials from "@/components/Testimonials";
 
 
 const home = async () => {
@@ -15,7 +17,10 @@ const home = async () => {
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
         {featuredBooks.map((book)=> <Card book={book} key={book.id}/>)}
       </div>
+      <BenefitsSection/>
+      <Testimonials/>
     </div>
+    
   )
 }
 

@@ -14,8 +14,7 @@ const MainLayout = ({ children }) => {
       <main className="grow">
         <div className="">
           {children}
-        </div>
-        <BenefitsSection/>
+        </div>          
       </main>
       <Footer />
     </div>

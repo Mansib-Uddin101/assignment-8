@@ -20,6 +20,7 @@
             </span>
           ))}
         </Marquee>
+        <h2 className="px-2 text-xl font-bold flex justify-center items-center">Special Discount on Memberships..</h2>
       </div>
     );
   };

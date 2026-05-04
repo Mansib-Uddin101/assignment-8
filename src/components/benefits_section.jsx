@@ -1,5 +1,5 @@
 import React from 'react';
-import { BookOpen, Truck, ShieldCheck } from 'lucide-react';
+import { BookOpen, Clock, ShieldCheck } from 'lucide-react';
 
 const BenefitsSection = () => {
   const benefits = [
@@ -9,9 +9,9 @@ const BenefitsSection = () => {
       description: "Access a diverse collection of thousands of books across all genres and tech stacks."
     },
     {
-      icon: <Truck size={40} className="text-blue-600" />,
-      title: "Fast Shipping",
-      description: "Enjoy lightning-fast delivery to your doorstep within 24 to 48 hours of ordering."
+      icon: <Clock size={40} className="text-blue-600" />,
+      title: "Extended Borrowing",
+      description: "Borrow your favorite titles for up to 30 days with easy one-click renewals from your dashboard."
     },
     {
       icon: <ShieldCheck size={40} className="text-blue-600" />,
@@ -21,7 +21,7 @@ const BenefitsSection = () => {
   ];
 
   return (
-    <section className="py-16 bg-gray-50">
+    <section className="py-16">
       <div className="w-5/6 mx-auto">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           {benefits.map((benefit, index) => (
